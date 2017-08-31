@@ -1,2 +1,3 @@
 # hello-world
-Hello world project repository
+
+Anthony here, I'm doing some self learning for Android and Apple apps, just starting out.
